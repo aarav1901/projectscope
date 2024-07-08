@@ -1,12 +1,15 @@
 ﻿@model firstproject.Models.Classpro
-<form>
+<form method="post" asp-controller="contact" action="page1" >
     <label asp-for="full_name">Name:</label>
-    <input type="text" id="full_name" name="full_name" minlenght="5"/><br>
+    <input asp-for="full_name" type="text" id="full_name" name="full_name" minlenght="5" /><br>
+
     <label asp-for="email_id">Email_id:</label>
-    <input type="text" id="email_id" name="email_id" /><br>
+    <input asp-for="email_id" type="text" id="email_id" name="email_id" /><br>
+
     <label asp-for="subject">Subject:</label>
-    <input type="text" id="subject" name="subject" /><br>
+    <input asp-for="subject" type="text" id="subject" name="subject" /><br>
+
     <label asp-for="message">Message:</label>
-    <input type="text" id="messsage" name="message" /><br>
+    <input asp-for="message" type="text" id="messsage" name="message" /><br>
     <button>submit</button>
 </form>

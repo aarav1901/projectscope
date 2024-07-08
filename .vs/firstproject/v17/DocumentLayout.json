@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|c:\\users\\scope\\desktop\\scope\\firstproject\\views\\contact\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|solutionrelative:views\\contact\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|c:\\users\\scope\\desktop\\scope\\firstproject\\controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|solutionrelative:controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|c:\\users\\scope\\desktop\\scope\\firstproject\\models\\classpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|solutionrelative:models\\classpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|c:\\users\\scope\\desktop\\scope\\firstproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F56D1A-1E55-406A-A33D-B3C6273AB49E}|firstproject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,61 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T06:14:37.542Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Classpro.cs",
-              "DocumentMoniker": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Models\\Classpro.cs",
-              "RelativeDocumentMoniker": "Models\\Classpro.cs",
-              "ToolTip": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Models\\Classpro.cs",
-              "RelativeToolTip": "Models\\Classpro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:59:35.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Views\\contact\\page1.cshtml",
-              "RelativeDocumentMoniker": "Views\\contact\\page1.cshtml",
-              "ToolTip": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Views\\contact\\page1.cshtml",
-              "RelativeToolTip": "Views\\contact\\page1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T05:34:46.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "contact.cs",
-              "DocumentMoniker": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Controllers\\contact.cs",
-              "RelativeDocumentMoniker": "Controllers\\contact.cs",
-              "ToolTip": "C:\\Users\\scope\\Desktop\\scope\\firstproject\\Controllers\\contact.cs",
-              "RelativeToolTip": "Controllers\\contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T05:32:49.81Z"
             }
           ]
         }

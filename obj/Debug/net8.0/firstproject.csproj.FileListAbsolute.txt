@@ -28,3 +28,9 @@ C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\refint\firstproject.d
 C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\firstproject.pdb
 C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\firstproject.genruntimeconfig.cache
 C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\ref\firstproject.dll
+C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\firstproject.sourcelink.json
+C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\firstproject.csproj.AssemblyReference.cache
+C:\Users\scope\Desktop\scope\firstproject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\scope\Desktop\scope\firstproject\bin\Debug\net8.0\MailKit.dll
+C:\Users\scope\Desktop\scope\firstproject\bin\Debug\net8.0\MimeKit.dll
+C:\Users\scope\Desktop\scope\firstproject\obj\Debug\net8.0\firstpro.C96E8B0B.Up2Date
